@@ -4,4 +4,4 @@ Data:
 https://www.kaggle.com/c/titanic/data
 
 Test Data accuracy:87%
-Kaggle Accuracy:77%
+
